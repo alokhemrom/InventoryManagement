@@ -39,7 +39,7 @@ This Inventory Management System is a simple web-based application designed to h
 
 ## Technology Stack
 
-- **Frontend**: Angular, Bootstrap 5, Typescript
+- **Frontend**: Angular 18, Bootstrap 5, Typescript
 - **Backend**: Spring Boot (3.x), Spring Security (6.x)
 - **Database**: PostgreSQL
 - **Authentication**: JWT-based
